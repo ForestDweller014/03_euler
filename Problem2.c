@@ -21,4 +21,4 @@ int main() {
 	}
 	printf("Ans: %d\n", sum);
 	return 0;
-}
+} 
